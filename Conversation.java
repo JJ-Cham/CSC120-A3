@@ -56,6 +56,9 @@ private String[] basicResponses = {"Mhhm", "Tell me more.", "Interesting...", "I
   /**
    * Prints transcript of conversation
    */
+  /**
+   * Prints transcript of conversation
+   */
   public void printTranscript() {
     System.out.println("\nTranscript:");
     for (String line : this.printTranscript) {
